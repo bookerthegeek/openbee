@@ -5,11 +5,7 @@ Bee Breeding with OpenPeripherals
 
 TODO:
 -----
+Modify program to work the way I want it to
 
-1.	~~Tie breaker using traits~~
-2.  ~~Integration with apiary~~
-3.  Nice UI
-4.  Support for multiple apiaries
-5.  ~~Reference bees that don't get touched~~
-6.  ~~Ditch obsolete drones function~~
-7.  Support for apiaries in different biomes
+
+Forked from https://github.com/Forte40/openbee
